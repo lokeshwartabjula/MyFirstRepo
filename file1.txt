@@ -1,2 +1,5 @@
 1st line added on the local master
+1 line added on the local branch "b1"<<<<<<< HEAD
 1 line added on the local branch "b1"
+=======
+>>>>>>> b2
